@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Oxule Rise
+# 👋 Hi! I'm Oxule
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Oxule&theme=merko&hide_border=true" alt="Oxule's GitHub Streak" />
