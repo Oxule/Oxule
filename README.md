@@ -18,7 +18,9 @@ I like brackets, re-usable code, OOP, DRY, SOLID, etc.
 
 ## Projects
 
-[**Celerio**](https://github.com/Oxule/Celerio) maintainer
+[**Celerio**](https://github.com/Oxule/Celerio) - Fast HTTP C# framework based on Roslyn Incremental Source Generators
+
+[**Skillance.ru**](https://skillance.ru) - Transparent freelance platform focused on good UX/UI, speed and new perspectives
 
 <img src="https://github-readme-stats.vercel.app/api?username=Oxule&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Oxule's GitHub Stats" />
 <br/>
