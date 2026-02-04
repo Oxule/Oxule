@@ -8,11 +8,12 @@
 - **Real name:** Kirill Filonov
 - **Location:** St. Petersburg, Russia
 - **Age:** 17 y.o
-- **Passionate about:** C#, JS, TS, C++ and high performance
+- **Passionate about:** C#, JS, TS, Rust and high performance
 
 ## 🚀 Projects & Highlights
 - [**Celerio**](https://github.com/Oxule/Celerio) – Fast HTTP C# framework powered by Roslyn Incremental Source Generators
 - [**Skillance.ru**](https://skillance.ru) – Transparent freelance platform with focus on UX/UI, speed & new perspectives
+- [**AURA**](https;//github.com/Oxule/Aura)
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -22,7 +23,6 @@
 </div>
 
 ## 🌱 What I'm Learning
-- Rust
 - Advanced UX/UI Design
 - High-performance system optimization
 
